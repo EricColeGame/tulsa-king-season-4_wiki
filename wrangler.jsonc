@@ -1,0 +1,14 @@
+{
+  "name": "tulsa-king-season-4-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "tulsa-king-season-4.wiki",
+      "custom_domain": true
+    }
+  ]
+}
