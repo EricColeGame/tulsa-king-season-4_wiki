@@ -34,293 +34,353 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Tulsa King Season 4 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with the Season 3 finale, meet Dwight's core crew, and learn how the weekly Paramount+ rollout works before diving into Season 4."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Release Schedule",
+          "description": "Track all ten Friday premiere dates, from the October 16 opener \"W.W.D.D.\" through the projected December 18 finale."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Cast & Characters",
+          "description": "Meet Sylvester Stallone's Dwight Manfredi, returning Tulsa allies, and new series regulars including Gretchen Mol."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Where to Watch",
+          "description": "Set up Paramount+, find Season 4 in your region, and build a spoiler-safe weekly viewing routine."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Tulsa King Season 4 Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Episode Guide",
+        "Release Schedule",
+        "Cast & Characters",
+        "Where to Watch"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Catch up on Dwight's Tulsa empire, the core cast, and the story threads that lead into Season 4.",
+          "href": "/guide/tulsa-king-season-4-episode-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Schedule",
+          "title": "Release Schedule",
+          "description": "All ten Friday dates for the new season on Paramount+, from the premiere through the finale.",
+          "href": "/guide/tulsa-king-season-4-release-schedule"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Cast",
+          "title": "Cast & Characters",
+          "description": "Sylvester Stallone leads returning Tulsa allies and a roster of new series regulars.",
+          "href": "/characters/tulsa-king-season-4-cast"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Official Trailer",
+          "description": "Break down the September 28 trailer, its biggest threats, and the season's central promise.",
+          "href": "/guide/tulsa-king-season-4-trailer"
+        },
+        {
+          "badge": "Story",
+          "title": "Plot & Storyline",
+          "description": "Follow Dwight's push for legitimacy as politicians, rivals, and personal loss close in.",
+          "href": "/story/tulsa-king-season-4-plot"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "How to Watch",
+          "description": "Set up Paramount+, choose a plan, and stream new episodes on the device you use most.",
+          "href": "/guide/tulsa-king-season-4-how-to-watch"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Recap",
+          "title": "Season 3 Recap",
+          "description": "Refresh the bourbon heist, the Dunmire feud, and the loose ends Season 4 must address.",
+          "href": "/guide/tulsa-king-season-4-season-3-recap"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "News",
+          "title": "Latest News",
+          "description": "Confirmed premiere details, the weekly rollout, and Season 5 production in New York.",
+          "href": "/guide/tulsa-king-season-4-latest-news"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What Is Tulsa King Season 4?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Tulsa King Season 4 is the fourth chapter of Paramount+'s crime drama starring Sylvester Stallone as Dwight \"The General\" Manfredi. After building a criminal operation in Tulsa, Dwight tries to legitimize his empire while corrupt politicians, dangerous rivals, and a devastating personal loss close in. The ten-episode season premiered on Friday, October 16, 2026, with \"W.W.D.D.\" and releases weekly on Fridays.",
+        "The series counts Taylor Sheridan among its executive producers and Terence Winter as head writer and executive producer. Returning allies include Martin Starr as Bodhi, Jay Will as Tyson, Garrett Hedlund as Mitch, Dana Delany as Margaret Devereaux, and Annabella Sciorra as Joanne, while Gretchen Mol joins as a new series regular. Our fan guide tracks the episode schedule, cast, plot threads, trailer details, and Paramount+ viewing options."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Premiere",
+          "value": "Oct 16, 2026"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Streaming",
+          "value": "Paramount+"
+        },
+        {
+          "label": "Episodes",
+          "value": "10"
+        },
+        {
+          "label": "Release",
+          "value": "Weekly Fridays"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Crime Drama"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Rating",
+          "value": "TV-MA"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Lead",
+          "value": "Sylvester Stallone"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Seasons",
+          "value": "4"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Season 4 Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Tulsa King Season 4 Wiki",
+      "description": "Browse eight focused guides covering episodes, release dates, cast, trailers, story, streaming, recap, and the future of the series.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Tulsa King Season 4 Episode Guide",
+          "description": "Explore the complete Season 4 episode guide with episode titles, release dates, summaries, and runtime information as new episodes arrive on Paramount+.",
+          "href": "/guide/tulsa-king-season-4-episode-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Premiere",
+              "detail": "\"W.W.D.D.\" opens the season on Friday, October 16, 2026."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Cadence",
+              "detail": "Ten episodes arrive one at a time on Paramount+ every Friday."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Finale",
+              "detail": "The weekly schedule projects Episode 10 for Friday, December 18, 2026."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Tulsa King Season 4 Release Schedule",
+          "description": "Track the Season 4 premiere date, all ten weekly episode dates, and the projected season finale on Paramount+.",
+          "href": "/guide/tulsa-king-season-4-release-schedule",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Episode 1",
+              "detail": "Premieres Friday, October 16, 2026, with \"W.W.D.D.\""
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Episode 2",
+              "detail": "The first weekly follow-up arrives Friday, October 23, 2026."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Episode 5",
+              "detail": "The mid-season episode lands Friday, November 13, 2026."
+            },
+            {
+              "label": "Episode 10",
+              "detail": "The season finale is projected for Friday, December 18, 2026."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Tulsa King Season 4 Cast and Characters",
+          "description": "Meet the main cast and their characters, including Sylvester Stallone as Dwight Manfredi, Martin Starr as Bodhi, and Jay Will as Tyson.",
+          "href": "/characters/tulsa-king-season-4-cast",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Sylvester Stallone as Dwight Manfredi — the series lead and the center of every power struggle."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Martin Starr as Bodhi, Jay Will as Tyson, and Garrett Hedlund as Mitch — Dwight's core Tulsa crew."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Dana Delany as Margaret, Annabella Sciorra as Joanne, and Chris Caldovino as Goodie — family and New York ties."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Gretchen Mol joins as a new series regular, while Vincent Piazza returns; both character roles are not yet detailed."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Tulsa King Season 4 Official Trailer and Clips",
+          "description": "Review the official Season 4 trailer, its key story promises, and the threats shaping Dwight's fight to reclaim what he lost.",
+          "href": "/guide/tulsa-king-season-4-trailer",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Release",
+              "detail": "The official Season 4 trailer debuted on September 28, 2026, ahead of the October 16 premiere."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Revenge",
+              "detail": "Dwight warns that \"bad things are going to happen to bad people.\""
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Return",
+              "detail": "The preview frames Dwight as an underdog rebuilding his crew, cash flow, and credibility."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Tulsa King Season 4 Plot and Storyline",
+          "description": "Summarize the season's central conflict as Dwight tries to legitimize his empire while protecting his crew from political pressure and new enemies.",
+          "href": "/story/tulsa-king-season-4-plot",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Legitimacy",
+              "detail": "Dwight tries to move his criminal operation into legal businesses, permits, and politics."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Pressure",
+              "detail": "Corrupt politicians, dangerous new enemies, and internal strain test his crew."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Loss",
+              "detail": "A crushing personal loss pushes Dwight back toward the street instincts he left in New York."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Tulsa King Season 4 Where to Watch",
+          "description": "Follow the steps to stream Season 4 on Paramount+, from checking regional availability to setting new-episode notifications.",
+          "href": "/guide/tulsa-king-season-4-how-to-watch",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Open the official Paramount+ Tulsa King page and confirm Season 4 is available in your region."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Create a Paramount+ account or sign in with an existing provider login."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Choose the Essential or premium plan and start the subscription."
+            },
+            {
+              "label": "4",
+              "detail": "Install the Paramount+ app on your TV, streaming stick, console, or mobile device."
+            },
+            {
+              "label": "5",
+              "detail": "Sign in, search for Tulsa King, and open Season 4."
+            },
+            {
+              "label": "6",
+              "detail": "Add the show to your watchlist and enable new-episode notifications."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tulsa King Season 4 Recap and Season 3 Ending",
+          "description": "Refresh the previous season's key events, the Dunmire feud, and the unresolved conflicts that carry directly into Season 4.",
+          "href": "/guide/tulsa-king-season-4-season-3-recap",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Heist",
+              "detail": "Roughly $150 million in rare bourbon disappeared from Dwight's operation in a single day."
+            },
+            {
+              "label": "Dunmires",
+              "detail": "The wealthy Dunmire family turned the theft into a public feud with Dwight's crew."
+            },
+            {
+              "label": "Bevilaqua",
+              "detail": "Bevilaqua vanished after appearing in Agent Musso's custody, leaving a major thread unresolved."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tulsa King Season 4 News and Future Seasons",
+          "description": "Track confirmed announcements about the current season, the early Season 5 production, and the wider Tulsa King franchise.",
+          "href": "/guide/tulsa-king-season-4-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Season 5",
+              "detail": "Season 5 is already filming in New York while Season 4 rolls out on Paramount+."
+            },
+            {
+              "label": "Renewed",
+              "detail": "The early renewal moves the franchise toward Dwight's New York past."
+            },
+            {
+              "label": "Spinoff",
+              "detail": "Samuel L. Jackson's Russell Lee Washington Jr. is set to lead the Frisco King spinoff."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Tulsa King Season 4 FAQ",
+      "description": "Quick answers about the Tulsa King Season 4 premiere, episode schedule, cast, and streaming availability.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Tulsa King Season 4 about?",
+          "answer": "Tulsa King Season 4 follows Dwight Manfredi as he tries to legitimize his criminal empire while corrupt politicians, dangerous new enemies, and a crushing personal loss threaten his crew and his control of Tulsa."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Tulsa King Season 4 premiere?",
+          "answer": "Tulsa King Season 4 premiered on Friday, October 16, 2026, with the episode \"W.W.D.D.\" on Paramount+."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many episodes are in Tulsa King Season 4?",
+          "answer": "Tulsa King Season 4 has ten episodes. New episodes arrive weekly on Fridays, with the finale projected for December 18, 2026."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where can I watch Tulsa King Season 4?",
+          "answer": "In the United States, Tulsa King Season 4 streams on Paramount+. Availability in other regions can vary, so check the official Paramount+ listing for your location."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Who leads the cast of Tulsa King Season 4?",
+          "answer": "Sylvester Stallone leads Tulsa King Season 4 as Dwight \"The General\" Manfredi. Martin Starr, Jay Will, Garrett Hedlund, Dana Delany, Annabella Sciorra, and Chris Caldovino return, while Gretchen Mol joins as a new series regular."
+        },
+        {
+          "question": "Will there be a Tulsa King Season 5 after Season 4?",
+          "answer": "Yes. Season 5 is already filming in New York while Tulsa King Season 4 continues its weekly release on Paramount+."
         }
       ]
     },
@@ -337,7 +397,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "watchOnParamount": "Watch on Paramount+",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
