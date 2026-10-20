@@ -246,10 +246,39 @@ const GROUP_TITLES: Record<string, string> = {
 };
 
 // locale → 分组标题映射
-const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {};
+const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: {
+    guide: "Guías",
+    episodes: "Episodios",
+    characters: "Personajes",
+    story: "Historia",
+    streaming: "Streaming",
+    community: "Comunidad",
+  },
+  de: {
+    guide: "Ratgeber",
+    episodes: "Episoden",
+    characters: "Charaktere",
+    story: "Handlung",
+    streaming: "Streaming",
+    community: "Community",
+  },
+  fr: {
+    guide: "Guides",
+    episodes: "Épisodes",
+    characters: "Personnages",
+    story: "Histoire",
+    streaming: "Streaming",
+    community: "Communauté",
+  },
+};
 
 // locale → "Overview" 翻译
-const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {};
+const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  es: "Resumen",
+  de: "Übersicht",
+  fr: "Aperçu",
+};
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [

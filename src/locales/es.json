@@ -1,1 +1,468 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Tulsa King Temporada 4",
+    "shortName": "Tulsa King 4",
+    "tagline": "Fecha de estreno, episodios, reparto y tráiler",
+    "description": "Wiki de fans de Tulsa King Temporada 4 con la fecha de estreno, el calendario semanal de episodios, el reparto, la historia, el tráiler y los detalles de streaming en Paramount+.",
+    "legalNotice": "Wiki de fans independiente. No está afiliada a Paramount+ ni a la producción de Tulsa King."
+  },
+  "nav": {
+    "guide": "Guía",
+    "episodes": "Episodios",
+    "characters": "Personajes",
+    "story": "Historia",
+    "streaming": "Streaming",
+    "community": "Comunidad",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Tulsa King Temporada 4: episodios, reparto y estreno",
+      "description": "Descubre las fechas de estreno de Tulsa King Temporada 4, guías de episodios, reparto, tráilers, novedades de la historia y streaming con una guía para fans."
+    },
+    "hero": {
+      "eyebrow": "Serie de crimen y mafia",
+      "title": "Wiki de Tulsa King Temporada 4",
+      "description": "Explora el nuevo imperio criminal de Dwight Manfredi, sus enemigos, el reparto, el calendario de episodios, los tráilers y el streaming de Tulsa King Temporada 4.",
+      "stats": [
+        "Estreno: 16 oct 2026",
+        "10 episodios",
+        "Viernes semanales",
+        "Temporada 5 renovada"
+      ],
+      "primaryCta": "Resumen de la temporada 4",
+      "secondaryCta": "Guía de episodios",
+      "tertiaryCta": "Ver en Paramount+",
+      "videoLabel": "Teaser oficial de Tulsa King Temporada 4"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Tulsa King Temporada 4",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza con el final de la temporada 3, conoce al equipo principal de Dwight y descubre cómo funciona el estreno semanal en Paramount+ antes de entrar en la temporada 4."
+        },
+        {
+          "number": "2",
+          "title": "Calendario de estrenos",
+          "description": "Sigue las diez fechas de los viernes, desde el estreno del 16 de octubre con «W.W.D.D.» hasta el final previsto para el 18 de diciembre."
+        },
+        {
+          "number": "3",
+          "title": "Reparto y personajes",
+          "description": "Conoce a Dwight Manfredi, interpretado por Sylvester Stallone, a los aliados que regresan a Tulsa y a los nuevos miembros fijos como Gretchen Mol."
+        },
+        {
+          "number": "4",
+          "title": "Dónde verla",
+          "description": "Configura Paramount+, encuentra la temporada 4 en tu región y crea una rutina semanal de visionado sin spoilers."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías destacadas de Tulsa King Temporada 4",
+      "quickLinks": [
+        "Guía de episodios",
+        "Calendario de estrenos",
+        "Reparto y personajes",
+        "Dónde verla"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Ponte al día con el imperio de Dwight en Tulsa, el reparto principal y las tramas que conducen a la temporada 4.",
+          "href": "/guide/tulsa-king-season-4-episode-guide"
+        },
+        {
+          "badge": "Calendario",
+          "title": "Calendario de estrenos",
+          "description": "Las diez fechas de los viernes para la nueva temporada en Paramount+, desde el estreno hasta el final.",
+          "href": "/guide/tulsa-king-season-4-release-schedule"
+        },
+        {
+          "badge": "Reparto",
+          "title": "Reparto y personajes",
+          "description": "Sylvester Stallone lidera el regreso de los aliados de Tulsa y un elenco de nuevos miembros fijos.",
+          "href": "/characters/tulsa-king-season-4-cast"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tráiler oficial",
+          "description": "Analizamos el tráiler del 28 de septiembre, sus mayores amenazas y la promesa central de la temporada.",
+          "href": "/guide/tulsa-king-season-4-trailer"
+        },
+        {
+          "badge": "Historia",
+          "title": "Trama e historia",
+          "description": "Sigue la búsqueda de Dwight por la legitimidad mientras se acercan políticos, rivales y una pérdida personal.",
+          "href": "/story/tulsa-king-season-4-plot"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cómo verla",
+          "description": "Configura Paramount+, elige un plan y reproduce los nuevos episodios en tu dispositivo habitual.",
+          "href": "/guide/tulsa-king-season-4-how-to-watch"
+        },
+        {
+          "badge": "Resumen",
+          "title": "Resumen de la temporada 3",
+          "description": "Repasa el robo del bourbon, el enfrentamiento con los Dunmire y los cabos sueltos que debe resolver la temporada 4.",
+          "href": "/guide/tulsa-king-season-4-season-3-recap"
+        },
+        {
+          "badge": "Noticias",
+          "title": "Últimas noticias",
+          "description": "Detalles confirmados del estreno, el lanzamiento semanal y la producción de la temporada 5 en Nueva York.",
+          "href": "/guide/tulsa-king-season-4-latest-news"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Tulsa King Temporada 4?",
+      "paragraphs": [
+        "Tulsa King Temporada 4 es el cuarto capítulo del drama criminal de Paramount+ protagonizado por Sylvester Stallone como Dwight «The General» Manfredi. Después de construir una operación criminal en Tulsa, Dwight intenta legitimar su imperio mientras se acercan políticos corruptos, rivales peligrosos y una devastadora pérdida personal. La temporada de diez episodios se estrenó el viernes 16 de octubre de 2026 con «W.W.D.D.» y se emite semanalmente los viernes.",
+        "Taylor Sheridan figura entre los productores ejecutivos y Terence Winter es el guionista principal y productor ejecutivo. Entre los aliados que regresan están Martin Starr como Bodhi, Jay Will como Tyson, Garrett Hedlund como Mitch, Dana Delany como Margaret Devereaux y Annabella Sciorra como Joanne, mientras Gretchen Mol se incorpora como nueva miembro fija. Nuestra guía de fans sigue el calendario de episodios, el reparto, las tramas, los detalles del tráiler y las opciones de visionado en Paramount+."
+      ],
+      "stats": [
+        {
+          "label": "Estreno",
+          "value": "16 oct 2026"
+        },
+        {
+          "label": "Streaming",
+          "value": "Paramount+"
+        },
+        {
+          "label": "Episodios",
+          "value": "10"
+        },
+        {
+          "label": "Emisión",
+          "value": "Viernes semanales"
+        },
+        {
+          "label": "Género",
+          "value": "Drama criminal"
+        },
+        {
+          "label": "Clasificación",
+          "value": "TV-MA"
+        },
+        {
+          "label": "Protagonista",
+          "value": "Sylvester Stallone"
+        },
+        {
+          "label": "Temporadas",
+          "value": "4"
+        }
+      ],
+      "cta": "Explorar guías de la temporada 4"
+    },
+    "explore": {
+      "title": "Explora la wiki de Tulsa King Temporada 4",
+      "description": "Consulta ocho guías centradas en episodios, fechas de estreno, reparto, tráilers, historia, streaming, resumen y el futuro de la serie.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de episodios de Tulsa King Temporada 4",
+          "description": "Consulta la guía completa de la temporada 4 con títulos, fechas de estreno, resúmenes y duración de cada episodio a medida que llegan a Paramount+.",
+          "href": "/guide/tulsa-king-season-4-episode-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estreno",
+              "detail": "«W.W.D.D.» abre la temporada el viernes 16 de octubre de 2026."
+            },
+            {
+              "label": "Ritmo",
+              "detail": "Los diez episodios llegan uno a uno a Paramount+ cada viernes."
+            },
+            {
+              "label": "Final",
+              "detail": "El calendario semanal prevé el episodio 10 para el viernes 18 de diciembre de 2026."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Calendario de estrenos de Tulsa King Temporada 4",
+          "description": "Sigue la fecha de estreno de la temporada 4, las diez fechas semanales y el final previsto en Paramount+.",
+          "href": "/guide/tulsa-king-season-4-release-schedule",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Episodio 1",
+              "detail": "Se estrena el viernes 16 de octubre de 2026 con «W.W.D.D.»."
+            },
+            {
+              "label": "Episodio 2",
+              "detail": "El primer episodio semanal llega el viernes 23 de octubre de 2026."
+            },
+            {
+              "label": "Episodio 5",
+              "detail": "El episodio de mitad de temporada llega el viernes 13 de noviembre de 2026."
+            },
+            {
+              "label": "Episodio 10",
+              "detail": "El final de la temporada está previsto para el viernes 18 de diciembre de 2026."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Reparto y personajes de Tulsa King Temporada 4",
+          "description": "Conoce al reparto principal y sus personajes, incluidos Sylvester Stallone como Dwight Manfredi, Martin Starr como Bodhi y Jay Will como Tyson.",
+          "href": "/characters/tulsa-king-season-4-cast",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sylvester Stallone como Dwight Manfredi: el protagonista y el centro de todas las luchas de poder."
+            },
+            {
+              "label": "A",
+              "detail": "Martin Starr como Bodhi, Jay Will como Tyson y Garrett Hedlund como Mitch: el equipo principal de Dwight en Tulsa."
+            },
+            {
+              "label": "B",
+              "detail": "Dana Delany como Margaret, Annabella Sciorra como Joanne y Chris Caldovino como Goodie: la familia y los vínculos con Nueva York."
+            },
+            {
+              "label": "C",
+              "detail": "Gretchen Mol se incorpora como nueva miembro fija y Vincent Piazza regresa; los detalles de sus personajes aún no se han revelado."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tráiler oficial y clips de Tulsa King Temporada 4",
+          "description": "Analiza el tráiler oficial de la temporada 4, sus principales promesas argumentales y las amenazas que marcan la lucha de Dwight por recuperar lo perdido.",
+          "href": "/guide/tulsa-king-season-4-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estreno",
+              "detail": "El tráiler oficial de la temporada 4 se presentó el 28 de septiembre de 2026, antes del estreno del 16 de octubre."
+            },
+            {
+              "label": "Venganza",
+              "detail": "Dwight advierte de que «les van a pasar cosas malas a personas malas»."
+            },
+            {
+              "label": "Regreso",
+              "detail": "El avance presenta a Dwight como un desfavorecido que reconstruye su equipo, su flujo de dinero y su credibilidad."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Trama e historia de Tulsa King Temporada 4",
+          "description": "Resume el conflicto central de la temporada mientras Dwight intenta legitimar su imperio y proteger a su equipo de la presión política y los nuevos enemigos.",
+          "href": "/story/tulsa-king-season-4-plot",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Legitimidad",
+              "detail": "Dwight intenta trasladar su operación criminal a negocios legales, permisos y política."
+            },
+            {
+              "label": "Presión",
+              "detail": "Los políticos corruptos, los nuevos enemigos peligrosos y las tensiones internas ponen a prueba a su equipo."
+            },
+            {
+              "label": "Pérdida",
+              "detail": "Una durísima pérdida personal empuja a Dwight de vuelta hacia los instintos callejeros que dejó en Nueva York."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dónde ver Tulsa King Temporada 4",
+          "description": "Sigue los pasos para ver la temporada 4 en Paramount+, desde comprobar la disponibilidad regional hasta activar los avisos de nuevos episodios.",
+          "href": "/guide/tulsa-king-season-4-how-to-watch",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Abre la página oficial de Tulsa King en Paramount+ y confirma que la temporada 4 está disponible en tu región."
+            },
+            {
+              "label": "2",
+              "detail": "Crea una cuenta de Paramount+ o inicia sesión con un proveedor existente."
+            },
+            {
+              "label": "3",
+              "detail": "Elige el plan Essential o el premium y comienza la suscripción."
+            },
+            {
+              "label": "4",
+              "detail": "Instala la aplicación de Paramount+ en tu televisor, dispositivo de streaming, consola o móvil."
+            },
+            {
+              "label": "5",
+              "detail": "Inicia sesión, busca Tulsa King y abre la temporada 4."
+            },
+            {
+              "label": "6",
+              "detail": "Añade la serie a tu lista y activa las notificaciones de nuevos episodios."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Resumen de Tulsa King Temporada 4 y final de la temporada 3",
+          "description": "Repasa los acontecimientos clave de la temporada anterior, el enfrentamiento con los Dunmire y los conflictos sin resolver que continúan en la temporada 4.",
+          "href": "/guide/tulsa-king-season-4-season-3-recap",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Robo",
+              "detail": "Unos 150 millones de dólares en bourbon excepcional desaparecieron de la operación de Dwight en un solo día."
+            },
+            {
+              "label": "Dunmire",
+              "detail": "La adinerada familia Dunmire convirtió el robo en un enfrentamiento público con el equipo de Dwight."
+            },
+            {
+              "label": "Bevilaqua",
+              "detail": "Bevilaqua desapareció después de aparecer bajo la custodia de la agente Musso, dejando una trama importante sin resolver."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y futuras temporadas de Tulsa King Temporada 4",
+          "description": "Sigue los anuncios confirmados sobre la temporada actual, el inicio de la producción de la temporada 5 y el futuro de la franquicia Tulsa King.",
+          "href": "/guide/tulsa-king-season-4-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Temporada 5",
+              "detail": "La temporada 5 ya se está rodando en Nueva York mientras la temporada 4 llega a Paramount+."
+            },
+            {
+              "label": "Renovación",
+              "detail": "La temprana renovación acerca la franquicia al pasado de Dwight en Nueva York."
+            },
+            {
+              "label": "Spin-off",
+              "detail": "Russell Lee Washington Jr., interpretado por Samuel L. Jackson, liderará el spin-off Frisco King."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Tulsa King Temporada 4",
+      "description": "Respuestas rápidas sobre el estreno, el calendario de episodios, el reparto y la disponibilidad de streaming de Tulsa King Temporada 4.",
+      "items": [
+        {
+          "question": "¿De qué trata Tulsa King Temporada 4?",
+          "answer": "Tulsa King Temporada 4 sigue a Dwight Manfredi mientras intenta legitimar su imperio criminal y, al mismo tiempo, políticos corruptos, peligrosos enemigos y una devastadora pérdida personal amenazan a su equipo y su control de Tulsa."
+        },
+        {
+          "question": "¿Cuándo se estrena Tulsa King Temporada 4?",
+          "answer": "Tulsa King Temporada 4 se estrenó el viernes 16 de octubre de 2026 con el episodio «W.W.D.D.» en Paramount+."
+        },
+        {
+          "question": "¿Cuántos episodios tiene Tulsa King Temporada 4?",
+          "answer": "Tulsa King Temporada 4 tiene diez episodios. Los nuevos episodios llegan cada viernes y el final está previsto para el 18 de diciembre de 2026."
+        },
+        {
+          "question": "¿Dónde puedo ver Tulsa King Temporada 4?",
+          "answer": "En Estados Unidos, Tulsa King Temporada 4 se emite en Paramount+. La disponibilidad en otras regiones puede variar, así que consulta la ficha oficial de Paramount+ para tu ubicación."
+        },
+        {
+          "question": "¿Quién encabeza el reparto de Tulsa King Temporada 4?",
+          "answer": "Sylvester Stallone lidera Tulsa King Temporada 4 como Dwight «The General» Manfredi. Regresan Martin Starr, Jay Will, Garrett Hedlund, Dana Delany, Annabella Sciorra y Chris Caldovino, mientras Gretchen Mol se incorpora como nueva miembro fija."
+        },
+        {
+          "question": "¿Habrá una temporada 5 de Tulsa King después de la temporada 4?",
+          "answer": "Sí. La temporada 5 ya se está rodando en Nueva York mientras Tulsa King Temporada 4 continúa su emisión semanal en Paramount+."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para volver a Tulsa?",
+      "description": "Descubre la fecha de estreno de la temporada 4, el calendario semanal, el reparto, el tráiler y las novedades de la historia en nuestra guía independiente para fans.",
+      "primary": "Ver guías de la temporada 4",
+      "secondary": "Ver en Paramount+"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Tulsa King Temporada 4",
+    "overviewDescription": "Sigue las fechas de estreno, el calendario de episodios, los tráilers, los resúmenes y las guías prácticas de Tulsa King Temporada 4."
+  },
+  "episodes": {
+    "overviewTitle": "Episodios de Tulsa King Temporada 4",
+    "overviewDescription": "Sigue todos los episodios de Tulsa King Temporada 4 con fechas de estreno, resúmenes, recuentos y análisis de los finales."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Tulsa King Temporada 4",
+    "overviewDescription": "Conoce a Dwight Manfredi, su equipo de Tulsa, los aliados que regresan y los nuevos miembros del reparto de Tulsa King Temporada 4."
+  },
+  "story": {
+    "overviewTitle": "Historia de Tulsa King Temporada 4",
+    "overviewDescription": "Explora la trama de Tulsa King Temporada 4, las muertes principales, los spoilers y las historias que impulsan el imperio de Dwight."
+  },
+  "streaming": {
+    "overviewTitle": "Streaming de Tulsa King Temporada 4",
+    "overviewDescription": "Descubre dónde ver Tulsa King Temporada 4 en Paramount+, incluidas las fechas de estreno regionales y los detalles de la plataforma."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Tulsa King Temporada 4",
+    "overviewDescription": "Lee opiniones de fans, debates de Reddit, teorías y predicciones sobre Tulsa King Temporada 4."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "featuredGuide": "Guía destacada",
+    "episodeGuideTitle": "Guía de episodios de la temporada 4",
+    "episodeGuideDescription": "Sigue cada episodio, su fecha de estreno y las novedades de la historia mientras avanza la temporada.",
+    "updated": "Actualizado",
+    "browseGuides": "Ver todas las guías",
+    "watchOnParamount": "Ver en Paramount+",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "notFoundTitle": "Página no encontrada",
+    "notFoundDescription": "La guía que buscas puede haberse trasladado o aún no estar disponible.",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. Vuelve pronto."
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Tulsa King Temporada 4",
+    "about": "Wiki de Tulsa King Temporada 4 es una guía de fans independiente que cubre la fecha de estreno, el calendario semanal de episodios, el reparto, la historia, los tráilers y el streaming en Paramount+.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "aboutLink": "Acerca de",
+    "copyright": "© 2026 Wiki de Tulsa King Temporada 4. No está afiliada a Paramount+ ni a la producción de Tulsa King.",
+    "description": "Guía de fans independiente de Tulsa King Temporada 4 en Paramount+.",
+    "playGame": "Ver en Paramount+",
+    "officialYoutube": "Paramount+ en YouTube",
+    "officialReddit": "Comunidad r/TulsaKing",
+    "officialTrailer": "Teaser oficial de la temporada 4",
+    "beginnerGuide": "Resumen de la temporada 4",
+    "raceGuides": "Guía de episodios",
+    "bossGuides": "Reparto y personajes",
+    "buildGuide": "Historia y novedades",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

@@ -441,6 +441,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The guide you are looking for may have moved or has not been added yet.",
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
@@ -449,6 +451,7 @@
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
+    "aboutLink": "About",
     "copyright": "© 2026 Tulsa King Season 4 Wiki. Not affiliated with Paramount+ or the Tulsa King production.",
     "description": "Independent fan guide for Tulsa King Season 4 on Paramount+.",
     "playGame": "Watch on Paramount+",

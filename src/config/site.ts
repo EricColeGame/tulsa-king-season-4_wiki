@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     reddit: "https://www.reddit.com/r/TulsaKing/",
     twitter: "https://x.com/ParamountPlus",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "de", "fr"],
   defaultLocale: "en",
 };

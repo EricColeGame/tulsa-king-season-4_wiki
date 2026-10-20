@@ -76,7 +76,8 @@ async function DetailPage({ locale, contentType, slug, navGroups }: { locale: Lo
   const pathname = `/${contentType}/${slug.join("/")}`;
   const localizedPathname = `/${locale}${pathname}`;
   const tocLabel = messages.shared.tableOfContents || messages.shared.inThisSection || "Table of Contents";
-  const sectionLabel = contentType.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+  const sectionLabel = (messages as unknown as Record<string, Record<string, string>>)[contentType]?.overviewTitle
+    || contentType.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
   const articleImage = item.metadata.image?.startsWith("http") ? item.metadata.image : `${siteUrl}${item.metadata.image ?? "/images/hero.webp"}`;
   const articleData = { "@context": "https://schema.org", "@type": "Article", headline: item.metadata.title, description: item.metadata.description, image: articleImage, datePublished: item.metadata.date, dateModified: item.metadata.lastModified ?? item.metadata.date, mainEntityOfPage: `${siteUrl}${localizedPathname}`, inLanguage: locale, author: { "@type": "Organization", name: siteConfig.name, url: siteUrl }, publisher: { "@type": "Organization", name: siteConfig.name, url: siteUrl, logo: { "@type": "ImageObject", url: `${siteUrl}/android-chrome-512x512.png` } } };
   const breadcrumbData = { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: messages.shared.home, item: `${siteUrl}/${locale}` }, { "@type": "ListItem", position: 2, name: sectionLabel, item: `${siteUrl}/${locale}/${contentType}` }, { "@type": "ListItem", position: 3, name: item.metadata.title, item: `${siteUrl}${localizedPathname}` }] };

@@ -20,8 +20,12 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = await getMessages({ locale });
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const title = messages.site.name;
+  const description = messages.site.description;
+  const openGraphLocale = { en: "en_US", es: "es_ES", de: "de_DE", fr: "fr_FR" }[locale] ?? locale;
   return {
     metadataBase: new URL(siteUrl),
     manifest: "/manifest.json",
@@ -33,10 +37,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    title: { default: "Tulsa King Season 4 Wiki", template: "%s" },
-    description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.",
-    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title: "Tulsa King Season 4 Wiki", description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.", images: [{ url: image, width: 1090, height: 609, alt: siteConfig.name }] },
-    twitter: { card: "summary_large_image", title: "Tulsa King Season 4 Wiki", description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.", images: [image] },
+    title: { default: title, template: "%s" },
+    description,
+    openGraph: { type: "website", locale: openGraphLocale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1090, height: 609, alt: siteConfig.name }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
