@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
     title: { default: "Tulsa King Season 4 Wiki", template: "%s" },
     description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title: "Tulsa King Season 4 Wiki", description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.", images: [{ url: image, width: 1090, height: 609, alt: siteConfig.name }] },
+    twitter: { card: "summary_large_image", title: "Tulsa King Season 4 Wiki", description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -53,6 +53,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.social?.youtube, siteConfig.social?.reddit].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

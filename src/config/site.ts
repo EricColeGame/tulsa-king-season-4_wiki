@@ -11,6 +11,7 @@ export interface SiteConfig {
   social?: {
     discord?: string;
     youtube?: string;
+    reddit?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -25,11 +26,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Season 4 Release Date, Episodes, Cast & Trailer",
   description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://tulsa-king-season-4.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://tulsa-king-season-4.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@tulsa-king-season-4.wiki",
   gameUrl: "https://www.paramountplus.com/shows/tulsa-king/",
   heroVideoId: "yaCHj96d1PA", // Tulsa King Season 4 official teaser
   social: {
     youtube: "https://www.youtube.com/@ParamountPlus",
+    reddit: "https://www.reddit.com/r/TulsaKing/",
     twitter: "https://x.com/ParamountPlus",
   },
   locales: ["en", "es", "pt", "de", "fr"],
