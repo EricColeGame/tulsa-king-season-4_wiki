@@ -6,7 +6,16 @@
     "description": "A fan-made Tulsa King Season 4 wiki covering the premiere date, weekly episode schedule, cast, story, trailer, and Paramount+ streaming details.",
     "legalNotice": "Independent fan wiki. Not affiliated with Paramount+ or the Tulsa King production."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "episodes": "Episodes",
+    "characters": "Characters",
+    "story": "Story",
+    "streaming": "Streaming",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Tulsa King Season 4 Wiki - Episodes, Cast & Release Date",
@@ -391,12 +400,37 @@
       "secondary": "Watch on Paramount+"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Tulsa King Season 4 Guides",
+    "overviewDescription": "Track release dates, episode schedules, trailers, recaps, and practical viewing guides for Tulsa King Season 4."
+  },
+  "episodes": {
+    "overviewTitle": "Tulsa King Season 4 Episodes",
+    "overviewDescription": "Follow every Tulsa King Season 4 episode with release dates, summaries, episode counts, and ending breakdowns."
+  },
+  "characters": {
+    "overviewTitle": "Tulsa King Season 4 Characters",
+    "overviewDescription": "Meet Dwight Manfredi, his Tulsa crew, returning allies, and the new cast members shaping Tulsa King Season 4."
+  },
+  "story": {
+    "overviewTitle": "Tulsa King Season 4 Story",
+    "overviewDescription": "Explore the Tulsa King Season 4 plot, major deaths, spoilers, and the story threads carrying Dwight's empire forward."
+  },
+  "streaming": {
+    "overviewTitle": "Tulsa King Season 4 Streaming",
+    "overviewDescription": "Find out where to watch Tulsa King Season 4 on Paramount+, including regional release dates and platform details."
+  },
+  "community": {
+    "overviewTitle": "Tulsa King Season 4 Community",
+    "overviewDescription": "Read fan reviews, Reddit discussion, theories, and predictions about Tulsa King Season 4."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "featuredGuide": "Featured Guide",
+    "episodeGuideTitle": "Season 4 Episode Guide",
+    "episodeGuideDescription": "Track every episode, release date, and story update as the season unfolds.",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "browseGuides": "Browse all guides",
     "watchOnParamount": "Watch on Paramount+",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
