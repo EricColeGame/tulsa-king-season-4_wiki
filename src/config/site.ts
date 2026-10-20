@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Tulsa King Season 4 Wiki",
+  shortName: "Tulsa King 4",
+  logoText: "T",
+  tagline: "Season 4 Release Date, Episodes, Cast & Trailer",
+  description: "A fan-made Tulsa King Season 4 wiki covering the premiere date, episode schedule, cast, story, trailer, and Paramount+ streaming details.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://tulsa-king-season-4.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://tulsa-king-season-4.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.paramountplus.com/shows/tulsa-king/",
+  heroVideoId: "yaCHj96d1PA", // Tulsa King Season 4 official teaser
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@ParamountPlus",
+    twitter: "https://x.com/ParamountPlus",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
